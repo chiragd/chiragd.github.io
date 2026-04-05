@@ -1,2 +1,2 @@
-# chiragd.github.io
+# Chirag's thoughts 
 Hello world
